@@ -1,0 +1,28 @@
+{
+  "name": "jwt-clase18sep",
+  "version": "1.0.0",
+  "description": "Practicando JWT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juan1445/JWT-clase18sep.git"
+  },
+  "author": "Juan Zuleta <juanzuleta1445@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juan1445/JWT-clase18sep/issues"
+  },
+  "homepage": "https://github.com/juan1445/JWT-clase18sep#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.2"
+  }
+}
